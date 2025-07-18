@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/tmp/kavia/workspace/code-generation/react-app-with-optional-database-integration-337b7b39/frontend"
+}
